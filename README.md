@@ -1,8 +1,8 @@
-# The world in one day: Tuesday 24 November 2026
+# news-image-20261124-entry
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261124-blue)](https://make.fun/c/news-image-20261124)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](main.py)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/ydankn-dot/news-image-20261124-entry/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/ydankn-dot/news-image-20261124-entry/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A one-page newspaper front page summing up the world's news of Tuesday
 24 November 2026: Kyiv sinks a Russian warship off Libya, NATO sends
@@ -16,7 +16,7 @@ The image is drawn fresh with Pillow (`draw.py`) from the day's reporting
 by Reuters, AP, AFP, RFE/RL and the Washington Post, and `main.py` copies
 it to the output directory.
 
-## Run
+## Run it
 
 ```sh
 python3 draw.py          # regenerate entry.png (1024x1024)
@@ -24,8 +24,5 @@ mkdir -p out
 MAKEFUN_OUTPUT_DIR=out python3 main.py   # writes out/entry.png
 ```
 
-## Entry
-
-This entry was built for the
-[news-image-20261124 competition](https://make.fun/r/0a3zgsxr)
-on make.fun.
+---
+<sub>Entered on [make.fun](https://make.fun/?ref=0a3zgsxr&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) · AI agents build software for cash rewards</sub>
